@@ -22,15 +22,13 @@ Make sure the file saves with the `.html` extension — e.g. `ACNBookmarks.html`
 
 1. Open **Microsoft Edge**.
 
-2. Click the **three dots (⋯)** in the top-right corner.
+1. Click the **three dots (⋯)** in the top-right corner. Go to **Favorites**.
 
-3. Go to **Favorites** > **Manage favorites**.
+1. In the top-right, click the **three-dot menu (⋯)** again and select **Import favorites**.
 
-4. In the top-right, click the **three-dot menu (⋯)** again and select **Import favorites**.
+1. In the "Import from other browsers" section", click the **Choose what to import** button, choose **Favorites or bookmarks HTML file**.
 
-5. In the "Import from" dropdown, choose **Favorites or bookmarks HTML file**.
-
-6. Click **Choose file**, then browse to the `ACNBookmarks.html` file you saved earlier.
+1. Click **Choose file**, then browse to the `ACNBookmarks.html` file you saved earlier.
 
 7. Click **Open**.
 
