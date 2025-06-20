@@ -30,9 +30,11 @@ Make sure the file saves with the `.html` extension — e.g. `ACNBookmarks.html`
 
 1. Click **Choose file**, then browse to the `ACNBookmarks.html` file you saved earlier.
 
-7. Click **Open**.
+1. Click **Open**.
 
-8. You should now see a new folder in your bookmarks or favorites bar called **Imported** or **ACNBookmarks**, containing all the links.
+1. You should now see a new folder in your bookmarks or favorites bar called **Imported** or **ACNBookmarks**, containing all the links.
+
+1. You can navigate to edge://favorites in your browser to manage or move the bookmarks, possibly to your Favourites Bar. 
 
 ## 🔄 Updating Bookmarks
 
